@@ -1,0 +1,15 @@
+Training_instance,Plays_fetch,Is_grumpy,Favorite_food,Species
+1,Yes,No,Bacon,Dog
+2,No,Yes,Dog_Food,Dog
+3,No,Yes,Cat_food,Cat
+4,No,Yes,Bacon,Cat
+5,No,No,Cat_food,Cat
+6,No,Yes,Bacon,Cat
+7,No,Yes,Cat_Food,Cat
+8,No,No,Dog_Food,Dog
+9,No,Yes,Cat_food,Cat
+10,Yes,No,Dog_Food,Dog
+11,Yes,No,Bacon,Dog
+12,No,No,Cat_food,Cat
+13,Yes,Yes,Cat_food,Cat
+14,Yes,Yes,Bacon,Dog
